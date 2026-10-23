@@ -1,0 +1,4 @@
+interface:
+  display_name: "会话标题整理"
+  short_description: "扫描项目与聊天，定制分类和命名规则，并按自选时间检查改名"
+  default_prompt: "使用 $conversation-title-manager 整理会话标题；如尚未配置，先扫描项目和聊天，推荐分类，再让我选择命名规则、时区及运行时间。"

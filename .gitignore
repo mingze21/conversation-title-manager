@@ -1,0 +1,20 @@
+# Personal runtime data belongs outside this distributable skill.
+active-profile.json
+profile.json
+profiles/
+state/
+states/
+logs/
+runs/
+proposals/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
